@@ -49,7 +49,7 @@
     end (while loop)
 
 ``````
-``````
+
 from collections import defaultdict
 H_dist ={}
 def aStarAlgo(start_node, stop_node):
@@ -154,7 +154,6 @@ Graph_nodes=graph
 print(graph)
 aStarAlgo('S', 'G')
 
-``````
 
 <hr>
 <h2>Sample Graph I</h2>
