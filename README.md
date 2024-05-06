@@ -1,7 +1,7 @@
 # ExpNo 4 : Implement A* search algorithm for a Graph
 
-## NAME : Saravanan N
-## REG NO/Staff Id: : TSML006
+## NAME : DEVADARSHAN A S
+## REG NO/Staff Id: : 212222110007
 
 ## Aim :
 
