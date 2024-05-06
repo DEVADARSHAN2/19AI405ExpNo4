@@ -1,7 +1,7 @@
 # ExpNo 4 : Implement A* search algorithm for a Graph
 
 ## NAME : DEVADARSHAN A S
-## REG NO/Staff Id: : 212222110007
+## REG NO : 212222110007
 
 ## Aim :
 
